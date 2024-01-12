@@ -1,0 +1,7 @@
+.idea
+*v_env*
+venv/
+venv
+__idea*
+__pycache*
+*docker*
